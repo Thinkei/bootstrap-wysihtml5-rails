@@ -1,0 +1,15 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: bootstrap-wysihtml5-rails
+  tags:
+    - external
+    - fork
+    - public
+    - ruby
+  annotations:
+    github.com/project-slug: Thinkei/bootstrap-wysihtml5-rails
+spec:
+  type: service
+  system: core-technology
+  lifecycle: production
