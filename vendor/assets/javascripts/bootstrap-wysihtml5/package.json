@@ -1,0 +1,8 @@
+{
+  "name": "bootstrap-wysihtml5-rails",
+  "version": "0.0.1",
+  "description": "",
+  "dependencies": {
+    "handlebars": "^3.0.8"
+  }
+}
